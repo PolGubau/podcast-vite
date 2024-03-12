@@ -3,7 +3,6 @@ import { DetailsPage } from "./pages/details";
 import { createBrowserRouter } from "react-router-dom";
 import React from "react";
 import { Chapter } from "./pages/chapter";
-
 export const router = createBrowserRouter([
   {
     path: "/",
